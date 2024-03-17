@@ -21,7 +21,7 @@ Connect a camera to your machine. It is used to determine the player's move.
 You can optionally use a virtualenv or Conda environment.
 
 1. Install Python version 3
-2. `pip install -U -r requirements.txt`
+2. `pip install -r requirements.txt`
 3. `python main.py`
 
 ## AI strategies
